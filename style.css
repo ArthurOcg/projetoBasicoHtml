@@ -1,3 +1,23 @@
 p {
-    
+    text-align: center;
+    border: dashed;
+    padding: 2%;
+}
+
+.alinhar {
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
+
+h1 {
+    text-align: center;
+}
+
+img{
+    padding: 5%
+}
+
+table {
+    width: 100%;
 }
