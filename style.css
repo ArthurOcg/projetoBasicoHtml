@@ -12,6 +12,7 @@ p {
 
 h1 {
     text-align: center;
+    margin-bottom: 5% !important;
 }
 
 img{
@@ -20,4 +21,19 @@ img{
 
 table {
     width: 100%;
+}
+body {
+    border: dashed;
+    border-color: beige;
+    background-color: black;
+}
+.container {
+    margin: 3%;
+}
+tr {
+    background-color: aliceblue;
+}
+
+tr:hover{
+    background-color: aqua !important;
 }
