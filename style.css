@@ -37,3 +37,10 @@ tr {
 tr:hover{
     background-color: aqua !important;
 }
+tr>th {
+   background-color: #28a745;
+   
+}
+tr,th {
+    text-align: center;
+}
